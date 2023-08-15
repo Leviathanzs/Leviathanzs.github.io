@@ -242,6 +242,7 @@ body {
     margin: 2rem 2rem;
     box-shadow:2px 2px 4px rgba(255, 255, 255, 0.4); 
     transition: 0.3s;
+    background-color: #fff;
 }
 
 .projects .card-container .card:hover {
@@ -254,7 +255,6 @@ body {
 }
 
 .projects .card-container .card .card-content {
-    background-color: #fff;
     max-width: 25rem;
     padding: 1rem;
 }
